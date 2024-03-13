@@ -38,7 +38,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2020.09 - 2024.07*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="/images/NUDT_logo.svg" width="20pt"></a> 国防科技大学 智能科学学院, 湖南长沙, 本科
+- *2020.09 - 2024.07*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> 国防科技大学 智能科学学院, 湖南长沙, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -46,11 +46,11 @@ redirect_from:
 
 ### 论文
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/remote sens2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2023</div><img src='images/remote sens2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 -	`Xiao, Yuhan`, Yufei Liu, Kai Luan, Yuwei Cheng, Xieyuanli Chen, and Huimin Lu. 2023. "Deep LiDAR-Radar-Visual Fusion for Object Detection in Urban Environments" Remote Sensing 15, no. 18: 4433.(JCR:Q1; IF:5.0)
-[[网页]](https://doi.org/10.3390/rs15184433) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+[[网页]](https://doi.org/10.3390/rs15184433) [[下载]](https://www.mdpi.com/2072-4292/15/18/4433/pdf?version=1694419546)
 
 </div>
 </div>
