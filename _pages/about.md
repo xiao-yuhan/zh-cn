@@ -34,7 +34,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2020.09 - 2024.07*, <a href="https://www.nudt.edu.cn/"><img src="/images/NUDT_logo.jpeg" width="20pt"></a> 国防科技大学 智能科学学院, 湖南长沙, 本科
+- *2020.09 - 2024.07*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="/images/NUDT_logo.svg" width="20pt"></a> 国防科技大学 智能科学学院, 湖南长沙, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
