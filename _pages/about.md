@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将本科毕业于国防科技大学智能科学学院，人工智能专业。在校攻读期间，获得20余项项目奖项，其中国际级3项，国家级5项，省部级9项，两次获得校级奖学金。在骆彦廷等老师指导下完成专利一项，在[卢惠民]("https://www.researchgate.net/profile/Huimin-Lu-3")教授和[陈谢沅澧](https://xieyuanli-chen.com)副教授的指导下发表SCI2区论文一篇。
+我将本科毕业于国防科技大学智能科学学院，人工智能专业。在校攻读期间，获得20余项项目奖项，其中国际级3项，国家级5项，省部级9项，两次获得校级奖学金。在骆彦廷等老师指导下完成专利一项，在[卢惠民](https://www.researchgate.net/profile/Huimin-Lu-3)教授和[陈谢沅澧](https://xieyuanli-chen.com)副教授的指导下发表SCI2区论文一篇。
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 部分主修课程：
