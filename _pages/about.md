@@ -37,8 +37,8 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2020.09 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> 国防科技大学 智能科学学院, 湖南长沙, 本科
+# 🎓 学历学位
+- *2020.09 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> 国防科技大学 智能科学学院, 湖南长沙, 本科 人工智能学士学位在读
  
 <span class='anchor' id='-lwzl'></span>
 

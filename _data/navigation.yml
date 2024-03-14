@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "简介"
+  - title: "个人简介"
     url: "/zh-cn/#about-me"
 
-  - title: "学历"
+  - title: "学历学位"
     url: "/zh-cn/#-xl"
 
   - title: "论文专利"
