@@ -88,7 +88,7 @@ redirect_from:
 - *2021* 获得 省级大学生创新项目结题
 - *2021* 获得 国防科技大学校级`二等奖学金`
 
-<span class='anchor' id='-xshy'></span>
+<span class='anchor' id='-zsjn'></span>
 
 # 🛠 证书技能
 
