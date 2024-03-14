@@ -29,10 +29,6 @@ redirect_from:
 - 人工智能基础
 - 图像处理与理解
 - 机器学习
-- 自动驾驶
-- 无人车综合设计
-
-  
 
 
 <span class='anchor' id='-xl'></span>
@@ -49,7 +45,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Remote Sensing 2023</div><img src='images/remote sens2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
--	`Xiao, Yuhan`, Yufei Liu, Kai Luan, Yuwei Cheng, Xieyuanli Chen, and Huimin Lu. 2023. "Deep LiDAR-Radar-Visual Fusion for Object Detection in Urban Environments" Remote Sensing 15, no. 18: 4433.(JCR:Q1; IF:5.0)
+-	`Xiao, Y.`; Liu, Y.; Luan, K.; Cheng, Y.; Chen, X.; Lu, H. Deep LiDAR-Radar-Visual Fusion for Object Detection in Urban Environments. Remote Sens. 2023, 15, 4433. (JCR:Q1; IF:5.0)
 [[网页]](https://doi.org/10.3390/rs15184433) [[下载]](https://www.mdpi.com/2072-4292/15/18/4433/pdf?version=1694419546)[[新闻]](https://hs.china.com.cn/zixun/127613.html)
 
 </div>
@@ -91,7 +87,7 @@ redirect_from:
 
 <span class='anchor' id='-zsjn'></span>
 
-# 🛠 证书技能
+# 🧱 证书技能
 
 ### 专业技能
 - 了解编程规范/惯用法/设计模式，熟悉git版本管理命令
@@ -101,7 +97,7 @@ redirect_from:
 - 熟悉Origin相关科研绘图工具，熟练运用latex编写论文，掌握Markdown语法编写文档
 
 ### 软件技能
-- 2021 MS OFFICE二级
+- 2021 全国计算机等级考试MS OFFICE二级
 
 ### 英语技能
 - 2024 英语一 80
