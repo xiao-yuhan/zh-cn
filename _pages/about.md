@@ -102,7 +102,9 @@ redirect_from:
 - 熟悉Origin相关科研绘图工具，熟练运用latex编写论文，掌握Markdown语法编写文档
 
 ### 软件技能
-- 2021 全国计算机等级考试MS OFFICE二级
+- MS OFFICE 基本办公
+- SPSSPRO 数据分析
+- PS 图像处理
 
 ### 英语技能
 - 2024 英语一 80
