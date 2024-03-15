@@ -96,8 +96,8 @@ redirect_from:
 
 ### 专业技能
 - 了解编程规范/惯用法/设计模式，熟悉git版本管理命令
-- 熟悉多门编程语言(C++,Python,Matlab)和框架(Pytorch,Opencv,Pandas)
-- 能进行基本的嵌入式开发(Linux,ROS/ROS2,STM32)，并了解基本软硬件原理
+- 熟悉多门编程语言(C++, Python, Matlab)和框架(Pytorch, Opencv, Pandas)
+- 能进行基本的嵌入式开发(Linux, ROS/ROS2, STM32)，并了解基本软硬件原理
 - 了解ML/DL基本原理，能使用pytorch进行机器学习和深度学习训练
 - 熟悉Origin相关科研绘图工具，熟练运用latex编写论文，掌握Markdown语法编写文档
 
