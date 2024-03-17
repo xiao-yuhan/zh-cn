@@ -46,8 +46,8 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
   
 -	`Xiao, Y.`; Liu, Y.; Luan, K.; Cheng, Y.; Chen, X.; Lu, H. Deep LiDAR-Radar-Visual Fusion for Object Detection in Urban Environments. Remote Sens. 2023, 15, 4433. (JCR:Q1; IF:5.0)
-[[网页]](https://doi.org/10.3390/rs15184433) [[下载]](https://www.mdpi.com/2072-4292/15/18/4433/pdf?version=1694419546) [[新闻]](https://hs.china.com.cn/zixun/127613.html)
-
+[[网页]](https://doi.org/10.3390/rs15184433) [[下载]](https://www.mdpi.com/2072-4292/15/18/4433/pdf?version=1694419546) [[新闻]](https://www.lunlunapp.com/newsDetails/40f70c64fa608ef7f9179b8c9f311707?jumpToWX=1&isShowTg=1&djeqid=5385173)
+<!-- https://hs.china.com.cn/zixun/127613.html 奋进一流突出贡献单位-->
 </div>
 </div>
 
