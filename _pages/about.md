@@ -17,25 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将本科毕业于国防科技大学智能科学学院，人工智能专业。在校攻读期间，获得20余项项目奖项，其中国际级3项，国家级5项，省部级9项，两次获得校级奖学金。在骆彦廷等老师指导下完成专利一项，在[卢惠民](https://www.researchgate.net/profile/Huimin-Lu-3)教授和[陈谢沅澧](https://xieyuanli-chen.com)副教授的指导下发表SCI2区论文一篇。
+我本科毕业于国防科技大学智能科学学院，人工智能专业，目前本校本学院电子信息硕士在读。本科在校攻读期间，获得20余项项目奖项，其中国际级3项，国家级5项，省部级9项，两次获得校级奖学金。在骆彦廷等老师指导下完成专利一项，在[卢惠民](https://www.researchgate.net/profile/Huimin-Lu-3)教授和[陈谢沅澧](https://xieyuanli-chen.com)副教授的指导下发表多模态融合目标识别论文一篇，目前在开展机器人感知相关工作。
  <!-- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。 -->
 
 部分主修课程：
 - 大学计算(Python)
 - 高级语言程序设计(C++)
-- 软件设计基础(C++)
+- 软件设计(C++)
 - 机器人操作系统(ROS)
 - 计算机网络
-- 人工智能基础
+- 人工智能
 - 图像处理与理解
 - 机器学习
-
+- 模式识别
+- 计算智能
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历学位
-- *2020.09 - 至今*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> 国防科技大学 智能科学学院, 湖南长沙, 本科 人工智能学士学位在读
- 
+- *2020.09 - 2024.07*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> 国防科技大学 智能科学学院, 湖南长沙, 学士 人工智能学士学位
+- *2024.09 - 2027.07*, <a href="https://www.nudt.edu.cn/"><img class="svg" src="images/NUDT_logo.svg" width="20pt"></a> 国防科技大学 智能科学学院, 湖南长沙, 硕士 电子信息硕士在读
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
@@ -67,7 +69,7 @@ redirect_from:
 # 🏅 荣誉奖项
 ### 项目
 ---
-- *2023* 获得 省部级大学生创新项目立项(基于3P3R结构的新型排爆机器人)
+- *2023* 获得 省部级大学生创新项目立项(基于3P3R结构的新型排爆机器人)[已结题]
 - *2022* 获得 国家级大学生创新项目立项(视觉与UWB异构传感器融合的室内智能看护系统)[已结题]
 - *2021* 获得 省部级大学生创新项目立项(水下无线电能传输系统分析与优化方法研究)[已结题]
 
@@ -96,13 +98,13 @@ redirect_from:
 
 ### 专业技能
 - 了解编程规范/惯用法/设计模式，熟悉git版本管理命令
-- 熟悉多门编程语言(C++, Python, Matlab)和框架(Pytorch, Opencv, Pandas)
-- 能进行基本的嵌入式开发(Linux, ROS/ROS2, STM32)，并了解基本软硬件原理
+- 了解多门编程语言(C++, Python, Matlab)和框架(Pytorch, Opencv, Pandas)
+- 能进行基本的开发(Linux, ROS/ROS2)，并了解基本软硬件原理
 - 了解ML/DL基本原理，能使用pytorch进行机器学习和深度学习训练
 - 熟悉Origin相关科研绘图工具，熟练运用latex编写论文，掌握Markdown语法编写文档
 
 ### 软件技能
-- MS OFFICE 基本办公
+- MS OFFICE/WPS 基本办公
 - SPSSPRO 数据分析
 - PS 图像处理
 
